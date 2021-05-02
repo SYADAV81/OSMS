@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OSMS.Application/bin/Debug/net5.0
+/OSMS.Application/obj
+/OSMS.Core/bin/Debug/net5.0
+/OSMS.Core/obj
+/OSMS.Domain/obj
+/OSMS.Infrastructure/bin/Debug/net5.0
+/OSMS.Infrastructure/obj
+/OSMS.UI/bin/Debug/net5.0
+/OSMS.UI/obj
